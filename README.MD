@@ -153,11 +153,6 @@ We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 - **Live Demo:** [http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/](http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/)
 - **Smart Contracts:** [https://github.com/contributeChain/contract.git](https://github.com/contributeChain/contract.git)
 - **Frontend:** [https://github.com/contributeChain/frontend.git](https://github.com/contributeChain/frontend.git)
-- **Docs:** [https://docs.devcred.io](https://docs.devcred.io)
-- **Support:** [support@devcred.io](mailto:support@devcred.io)
-- **Lens Protocol:** [https://docs.lens.xyz](https://docs.lens.xyz)
-- **Grove Storage:** [https://grove.storage/](https://grove.storage/)
-- **Foundry:** [https://book.getfoundry.sh/](https://book.getfoundry.sh/)
 
 ---
 
