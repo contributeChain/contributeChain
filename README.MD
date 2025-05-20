@@ -160,5 +160,4 @@ We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 
 ---
 
-Let me know if you want this further customized for a specific repo, or if you need a more technical/less technical version!  
 Demo: [http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/](http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/)
