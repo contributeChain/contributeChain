@@ -6,7 +6,7 @@ Here’s a tailored, professional organization-level README for your project, in
 
 Welcome to the **ContributeChain** organization! We’re building the future of developer reputation by bridging GitHub contributions with the Lens Protocol and Grove decentralized storage. Our platform enables developers to mint their open-source achievements as NFTs, showcase their work, and build verifiable on-chain reputations.
 
-**Live Demo:** [ContributeChain Demo](http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/)
+**Live Demo:** [ContributeChain Demo](http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/)
 
 ---
 
@@ -89,7 +89,7 @@ Empower developers to own, prove, and showcase their open-source contributions o
   - Contribution visualization (heatmap, activity feed, repo cards)
   - NFT minting UI
   - Profile and NFT gallery
-- **Live Demo:** [http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/](http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/)
+- **Live Demo:** [http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/](http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/)
 
 ---
 
@@ -150,7 +150,7 @@ We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 
 ## Contact & Resources
 
-- **Live Demo:** [http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/](http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/)
+- **Live Demo:** [http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/](http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/)
 - **Smart Contracts:** [https://github.com/contributeChain/contract.git](https://github.com/contributeChain/contract.git)
 - **Frontend:** [https://github.com/contributeChain/frontend.git](https://github.com/contributeChain/frontend.git)
 
@@ -160,4 +160,4 @@ We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 
 ---
 
-Demo: [http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/](http://n80kw0kw000gw08gok44ogkc.34.67.137.207.sslip.io/)
+Demo: [http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/](http://f8ksk0o4w0kosswc88s4o8ck.35.208.71.32.sslip.io/)
